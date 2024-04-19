@@ -1,4 +1,4 @@
-package org.lineageos.realme.imsinit;
+package org.lineageos.xiaomi.imsinit;
 
 import android.app.Service;
 import android.content.Context;
